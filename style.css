@@ -1,0 +1,27 @@
+/* Start header page*/
+
+header{
+    margin-top: 40px;
+   
+}
+.bg-light{
+    background: blue;
+}
+.navbar-light{
+    background: #4e9a75;
+}
+.navbar-brand{
+    color: black;
+    font-size: 30px;
+    font-style:normal;
+    font-weight: bold;
+}
+li{
+    font-size: 18px;
+ 
+    padding-left: 10px;
+}
+li a{
+    color: red;
+}
+/* End header page*/
